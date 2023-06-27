@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Airline Ticket Booking System</title>
-    <link rel="shortcut icon" href="Login-logo.jpg" type="image/x-icon"> <!-- to change the icon in brower tab -->
+    <link rel="shortcut icon" href="../pictures/Login-logo.jpg" type="image/x-icon"> <!-- to change the icon in brower tab -->
 
     <link rel="stylesheet" href="Login.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,7 +20,7 @@
         <div class="form">
 
             <div class="logo-container">  
-                <a href="Login.php"> <img src="Login-logo.jpg" alt="logo" id="image-logo-1"></a>
+                <a href="Login.php"> <img src="../pictures/Login-logo.jpg" alt="logo" id="image-logo-1"></a>
                 <p class="title">Airline Ticket Booking System </p>
             </div>
 
