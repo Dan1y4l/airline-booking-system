@@ -1,5 +1,10 @@
+<?php
+    include ('header.html');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,12 +28,20 @@
         </ul>
 
      </nav>
+
+     <div class="home-page">
+        <img class="background-pic" src="../pictures/background-image.jpg" style="width: 100%; "> 
+        <div class="main-pic">
+            <p class="cCaption">Best & cheapest airline<br> booking website</p>
+            <p class="cCaption2"><i>"RECOMENDED BY MANY AIRLINES"</i></p>
+            <a href="Student/add_practical_training.php"><button class="button">book Now!</button></a>
+        </div>
+
+     </div>
         
-
-    
-
-
 </body>
+
+</html>
 
 
 
